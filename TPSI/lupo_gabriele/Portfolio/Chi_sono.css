@@ -1,0 +1,58 @@
+.tutto {
+    background-color: rgb(226, 240, 245);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #3260E3;
+}
+
+h1, h2 {
+    font-family: 'Martel Sans', monospace, 'Monaco';
+}
+
+h3, a, td {
+    font-family: 'Overlock', cursive, 'Lucida Handwriting';
+}
+
+div {
+    background-color: #85C7D6;
+}
+
+img {
+    border-radius: 30px;
+}
+
+table {
+    padding: 1%;
+    border: 10px solid #FAA916;
+    border-radius: 10px;
+}
+
+.tabella {
+    margin-left: 40%;
+    text-align: right;
+}
+
+.table {
+    margin-right: 40%;
+    text-align: left;
+}
+
+hr {
+    background-color: #091540;
+    height: 10px;
+    margin: 20px;
+}
+
+a:hover {
+    background-color: #FAA916;
+}
+
+a {
+    color: #000000;
+}
+
+ul {
+  list-style-type: none;
+}
